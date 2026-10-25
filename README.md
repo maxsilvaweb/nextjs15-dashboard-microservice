@@ -17,9 +17,10 @@ A modern advocacy analytics dashboard built with Next.js that provides real-time
 ## 🛠 Tech Stack
 
 ### Frontend
-- **Next.js 14** - React framework with App Router
+- **Next.js 15** - React framework with App Router
+- **React 19** - UI library
 - **TypeScript** - Type-safe development
-- **Tailwind CSS** - Utility-first CSS framework
+- **Tailwind CSS v4** - Utility-first CSS framework
 - **Radix UI** - Accessible component primitives
 - **SWR** - Data fetching with caching and revalidation
 - **Axios** - HTTP client for API requests
